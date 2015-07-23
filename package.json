@@ -1,0 +1,23 @@
+{
+  "author": "zangrafx <zangrafx@gmail.com>",
+  "dependencies": {},
+  "description": "gulp-sass-test",
+  "devDependencies": {
+    "gore-gulp": "0.x",
+    "gulp": "3.x",
+    "gulp-sass": "^2.0.4"
+  },
+  "directories": {
+    "dist": "output",
+    "lib": "src"
+  },
+  "engines": {
+    "node": ">=0.12"
+  },
+  "main": "src",
+  "name": "gulp-sass-test",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "version": "0.0.0"
+}

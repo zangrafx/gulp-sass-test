@@ -1,0 +1,37 @@
+{
+	"SublimeLinter":
+	{
+		"linters":
+		{
+			"eslint":
+			{
+				"@disable": false,
+				"args":
+				[
+					"--config=${project}/eslint.json"
+				],
+				"excludes":
+				[
+				]
+			}
+		}
+	},
+	"folders":
+	[
+		{
+			"folder_exclude_patterns":
+			[
+				"bower_components",
+				"node_modules"
+			],
+			"path": "."
+		},
+		{
+			"path": "node_modules"
+		}
+	],
+	"syntax_map":
+	{
+		"javascript (babel)": "javascript"
+	}
+}
