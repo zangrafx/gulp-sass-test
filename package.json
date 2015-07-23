@@ -3,9 +3,12 @@
   "dependencies": {},
   "description": "gulp-sass-test",
   "devDependencies": {
+    "autoprefixer-core": "^5.2.1",
     "gore-gulp": "0.x",
     "gulp": "3.x",
-    "gulp-sass": "^2.0.4"
+    "gulp-postcss": "^5.1.10",
+    "gulp-sass": "^2.0.4",
+    "gulp-sourcemaps": "^1.5.2"
   },
   "directories": {
     "dist": "output",
