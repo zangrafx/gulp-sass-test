@@ -1,5 +1,5 @@
 body {
-  background: pink; }
+  background: green; }
 
 footer {
   background: red; }
@@ -14,5 +14,15 @@ footer {
 
 .badError {
   border-width: 3px; }
+
+body {
+  background: blue;
+  -webkit-transition: left ease 1s;
+          transition: left ease 1s;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-size: 2rem;
+  -ms-touch-action: auto;
+      touch-action: auto; }
 
 /*# sourceMappingURL=maps/inheritance.css.map */
