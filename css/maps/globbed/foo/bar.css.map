@@ -1,1 +1,1 @@
-{"version":3,"sources":["globbed/foo/bar.scss"],"names":[],"mappings":"AAAgB;EACd,aAAa;EACb,iBAAiB,EAFC","file":"globbed/foo/bar.css","sourcesContent":["h1, h2, h3, h4, h5 {\n  color: green;\n  font-weight: 800;\n}\n"],"sourceRoot":"/source/"}
+{"version":3,"sources":["globbed/foo/bar.scss"],"names":[],"mappings":"AAAgB;EACd,aAAa;EACb,iBAAiB,EAFC","file":"globbed/foo/bar.css","sourcesContent":["h1, h2, h3, h4, h5 {\r\n  color: green;\r\n  font-weight: 800;\r\n}\r\n"],"sourceRoot":"/source/"}

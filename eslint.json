@@ -18,7 +18,6 @@
         "unicodeCodePointEscapes": true
     },
     "env": {
-        "browser": true,
         "node": true
     },
     "parser": "babel-eslint",
